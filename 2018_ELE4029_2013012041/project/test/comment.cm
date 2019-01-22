@@ -1,0 +1,23 @@
+/* Comment Test *****
+    /* Comment Test */
+
+int comment Test( void ) {return 133; }
+
+*/
+
+int commentTest2( int a, int * b)
+{
+    if(a<3)
+    {
+        *b +=a;
+    }
+    else
+    {
+        *b -=a;
+    }
+
+    return 3;
+}
+
+/*** comment error check **/
+int main()

@@ -1,0 +1,8 @@
+/*hi*/
+
+int main(void)
+{
+    int x; int y;
+    int i;
+    i = x+y;
+}
